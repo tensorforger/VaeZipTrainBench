@@ -1,0 +1,13 @@
+diffusers>=0.41.0
+transformers
+numpy>=2.0
+opencv-python==4.12.0.88
+accelerate
+safetensors>=0.4.0
+ipykernel
+matplotlib
+tqdm
+tensorboard
+torchmetrics[image]
+omegaconf
+vaezip
